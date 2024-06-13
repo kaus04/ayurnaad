@@ -1,0 +1,42 @@
+body {
+    background-color: #2e4a62; /* Light blue background */
+    color: #2e4a62; /* Dark blue text */
+}
+
+.navbar {
+    background-color: #2e4a62; /* Dark blue navbar */
+}
+
+.navbar-brand, .nav-link {
+    color: #010101 !important; /* White text */
+}
+
+.btn-primary {
+    background-color: #2e4a62; /* Dark blue button */
+    border-color: #2e4a62;
+}
+
+.carousel-caption h5 {
+    background-color: rgba(46, 74, 98, 0.7); /* Dark blue with transparency */
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.carousel-caption p {
+    background-color: rgba(46, 74, 98, 0.5); /* Dark blue with transparency */
+    padding: 10px;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #0d1d2a; /* Dark blue footer */
+    color: #2e4a62; /* White text */
+}
+
+footer a {
+    color: #fff; /* White text */
+}
+
+footer a:hover {
+    color: #f0f8ff; /* Light blue on hover */
+}
